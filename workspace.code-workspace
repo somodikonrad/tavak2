@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\tavak\\banki_to"
+		},
+		{
+			"path": "..\\..\\tavak\\pecsi_to"
+		},
+		{
+			"path": "..\\..\\tavak\\tisza_to"
+		},
+		{
+			"path": "..\\..\\tavak\\vadasa_to"
+		}
+	],
+	"settings": {}
+}
