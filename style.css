@@ -1,9 +1,72 @@
 body
 {
-background-color:  rgb(37, 83, 37);
+background-color:  rgb(161, 228, 161);
 font-family:  Verdana;
 color:  #FFF;
+font-size: 0.8em;
 }
+
+header{
+    background-image: url('pecsi_to/3.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 200px;
+    padding: 20px;
+    text-indent: 50px;
+    width: 900px;
+    box-shadow: 5px 5px 3px black;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+h1{
+    color: blue;
+    background-color: rgba(255, 255, 255, 0.6); /*40%-ban átlátszó*/
+    margin-top:60px;
+    margin-left:60px;
+    text-indent: 25px;
+    width: 800px;
+}    
+#egesz{
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+}
+.to{
+    display: inline;
+    height: 400px;
+    width: 350px;
+    
+}
+img{
+    height: 200px;
+    width: 250px;
+    border: 10px solid white;
+    box-shadow: 5px 5px 3px grey;
+    transform: rotate(4deg);
+}
+#szoveg{
+    display: block;
+    width: 900px;
+    margin: 0 auto;
+    padding: 10px;
+}
+#egesz2{
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+}
+p{
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    color: blue;
+}
+
+
+
+
+
 
 
 
